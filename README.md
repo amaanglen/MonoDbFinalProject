@@ -1,5 +1,5 @@
 
-#EcoSense 
+# EcoSense 
 
 EcoSense is a social media platform designed to promote environmental awareness and community action by allowing users to document and share instances of trash and litter in public spaces.
 
