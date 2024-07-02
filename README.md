@@ -13,3 +13,4 @@ EcoSense is a social media platform designed to promote environmental awareness 
 - **User Profiles:** Create profiles to share environmental efforts and connect with like-minded individuals.
 - **Blog Posts:** Write and publish blogs about areas with litter, the impact of waste, and suggestions for community action.
 - **Photo & Video Uploads:** Upload photos and videos to document areas affected by littering.
+
